@@ -61,5 +61,5 @@ Example for begin
 
 ## Author
 
-- [@iDevLoL](https://www.github.com/iDevLoL)
+- [AmiR](https://www.github.com/AmiRCandy)
 
